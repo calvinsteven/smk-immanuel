@@ -1,5 +1,6 @@
 rencana tugas
 *framework
+-struktur data
 -javascript
 -php framework
 -vlogs
