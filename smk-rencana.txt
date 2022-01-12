@@ -1,5 +1,7 @@
 rencana tugas
 *framework
+angular
+data
 -struktur data
 -javascript
 -php framework
